@@ -1,8 +1,14 @@
 #styling{
 	width: 500px;
 	margin: 0 auto;
+	background-color: #000;
 }
 
 #styling #heading table {
 	margin 0 auto;
+}
+
+table{
+margin: 0 auto;
+color: #fff;
 }
