@@ -1,29 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:100);
-@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 }
 
-#styling {
-	font-size: 14px;
-	width: 500px;
-	margin: 0 auto;
-	background-color: #ec3b83;
-}
-
-#styling #heading {
-	font-family: 'Rock Salt', cursive;
-	font-size: 14px;
-	margin 0 auto;
-	text-align: center;
-}
-
-table{
+#id {
 	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-	margin: 0 auto;
-	color: #B2C4BE;
-	text-align: center;
+	font-size: 30px;
+}
+
+#navigation {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
 }
