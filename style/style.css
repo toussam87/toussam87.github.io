@@ -17,3 +17,8 @@ body {
 	right: 6px;
 	top: 21px;
 }
+
+#border {
+	background-color: c72da2;
+	height: 1px;
+}
