@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:100);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
 
-.body {
+body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 }
 
 #styling{
-	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	width: 500px;
 	margin: 0 auto;
@@ -14,7 +14,7 @@
 }
 
 #styling #heading table {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Rock Salt', cursive;
 	font-size: 14px;
 	margin 0 auto;
 }
