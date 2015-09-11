@@ -6,14 +6,14 @@ body {
 	font-size: 14px;
 }
 
-#styling{
+#styling {
 	font-size: 14px;
 	width: 500px;
 	margin: 0 auto;
 	background-color: #ec3b83;
 }
 
-#styling #heading table {
+#styling #heading {
 	font-family: 'Rock Salt', cursive;
 	font-size: 14px;
 	margin 0 auto;
