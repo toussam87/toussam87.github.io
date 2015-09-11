@@ -6,17 +6,23 @@
 }
 
 #styling{
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
 	width: 500px;
 	margin: 0 auto;
 	background-color: #ec3b83;
 }
 
 #styling #heading table {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
 	margin 0 auto;
 }
 
 table{
-margin: 0 auto;
-color: #B2C4BE;
-text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	margin: 0 auto;
+	color: #B2C4BE;
+	text-align: center;
 }
