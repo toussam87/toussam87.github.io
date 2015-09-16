@@ -7,10 +7,11 @@
 	width: 600px;
 	margin: 0 auto;
 	text-align: center;
+	background-color: #df89a7;
 }
 
 #australian-open-countdown, #roland-garros-countdown, #wimbledon-countdown, #diamond-league-nyc-countdown, #olympics, #us-open-countdown{
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 100px;
-	color: #ae6ab6;
+	color: #000;
 }
