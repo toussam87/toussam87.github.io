@@ -25,7 +25,7 @@ setInterval(function () {
     seconds = parseInt(seconds_left % 60);
      
     // format countdown string + set tag value
-    countdown.innerHTML = days + "d, " + hours + "h, "
+    australian-open-countdown.innerHTML = days + "d, " + hours + "h, "
     + minutes + "m, " + seconds + "s";  
  
 }, 1000);
