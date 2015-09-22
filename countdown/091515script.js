@@ -5,7 +5,7 @@ var target_date = new Date("Jan 18, 2016").getTime();
 var days, hours, minutes, seconds;
  
 // get tag element
-var australian-open-countdown = document.getElementById("australian-open-countdown");
+var australianOpenCountdown = document.getElementById("australianOpenCountdown");
  
 // update the tag with id "countdown" every 1 second
 setInterval(function () {
@@ -25,7 +25,7 @@ setInterval(function () {
     seconds = parseInt(seconds_left % 60);
      
     // format countdown string + set tag value
-    australian-open-countdown.innerHTML = days + "d, " + hours + "h, "
+    australianOpenCountdown.innerHTML = "<br>" + days + "d, " + hours + "h, "
     + minutes + "m, " + seconds + "s";  
  
 }, 1000);
