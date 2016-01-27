@@ -1,11 +1,13 @@
-// set the date we're counting down to
-var target_date = new Date("Jan 18, 2016").getTime();
+// set value of the target date
+var target_date = document.getElementById('data-countdown')
+
+//new Date("Jan 18, 2016").getTime();
  
 // variables for time units
 var days, hours, minutes, seconds;
  
 // get tag element
-var australianOpenCountdown = document.getElementById("australianOpenCountdown");
+//var australianOpenCountdown = document.getElementById("australianOpenCountdown");
  
 // update the tag with id "countdown" every 1 second
 setInterval(function () {
@@ -27,5 +29,4 @@ setInterval(function () {
     // format countdown string + set tag value
     australianOpenCountdown.innerHTML = days + "d, " + hours + "h, "
     + minutes + "m, " + seconds + "s";  
- 
 }, 1000);
