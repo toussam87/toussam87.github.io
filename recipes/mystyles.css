@@ -10,5 +10,6 @@ nav {
 	text-transform: uppercase;
 	font-family: 'Roboto Slab', serif; 
 	font-size: 1.1em;
-	width: calc(100% - 20px)
+	width: 550px;
+	text-align: center;
 }
