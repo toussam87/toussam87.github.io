@@ -1,3 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300);
+
 nav {
 	color: red;
+	text-transform: capitalize;
+	font-family: 'Roboto Slab', serif;
 }
