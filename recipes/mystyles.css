@@ -3,17 +3,17 @@
 
 #id {
 	width: 550px;
+	font-family: 'Roboto Slab', serif; 
 }
 
 nav {
 	color: red;
 	text-transform: uppercase;
-	font-family: 'Roboto Slab', serif; 
 	font-size: 1.1em;
 	width: calc (100% - 550px);
 	text-align: center;
 }
 
 #secondary {
-	
+	font-size: .8em;
 }
