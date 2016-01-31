@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300);
-
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
 
 #id {
 	width: 550px;
@@ -15,5 +14,5 @@ nav {
 }
 
 #secondary {
-	font-size: .8em;
+	font-size: .9em;
 }
