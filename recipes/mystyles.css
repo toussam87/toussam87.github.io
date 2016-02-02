@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
 
-@media screen and (max-device-width: 375px) {
+@media screen and (min-device-width: 375px) {
 
 #main {
 	width: 750px;
@@ -28,7 +28,7 @@ img {
 	line-height: 1.5em;
 } }
 
-@media screen and (max-device-width: 1000px) {
+@media screen and (min-device-width: 1000px) {
 
 #main {
 	width: 1750px;
