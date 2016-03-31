@@ -1,11 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-}
-
-#id {
+#main {
+	color: #000;
+	width: 750px;
+	border: 1 0;
+	border-color: #D5B2D8;
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 }
