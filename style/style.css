@@ -2,11 +2,12 @@
 
 #main {
 	color: #000;
-	width: 480px;
+	width: 375pt;
 	border: 1px 0;
 	border-color: #D5B2D8;
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
+	flex-direction: column;
 }
 #header{
 	order: 1;
@@ -15,8 +16,7 @@
 
 #navigation {
 	font-size: 14px;
-	position: fixed;
-	height: 4em;
+	height: 2em;
 	order: 2;
 }
 #content {
