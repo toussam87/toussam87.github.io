@@ -20,6 +20,7 @@
 }
 #content {
 	order: 3;
+	font-size: 12px;
 }
 #footer{
 	order: 4;
