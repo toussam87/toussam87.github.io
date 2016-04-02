@@ -21,10 +21,13 @@
 #content {
 	order: 3;
 	font-size: 12px;
+	word-wrap: normal;
+	text-align: justify;
 }
 #footer{
 	order: 4;
 	font-size: 12px;
 	color: #ae729f;
 	background-color: #3D3C3A;
+	text-align: justify;
 }
