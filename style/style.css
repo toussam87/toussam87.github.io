@@ -16,19 +16,19 @@
 }
 
 #navigation {
-	font-size: 14px;
+	font-size: 22px;
 	height: 2em;
 	border: 2;
 }
 #content {
 	border: 3;
-	font-size: 16px;
+	font-size: 20px;
 	word-wrap: normal;
 	text-align: justify;
 }
 #footer{
 	border: 4;
-	font-size: 12px;
+	font-size: 20px;
 	color: #ae729f;
 	background-color: #3D3C3A;
 	text-align: justify;
@@ -44,7 +44,7 @@
 	font-size: 22x;
 }
 #navigation {
-	font-size: 14px;
+	font-size: 18px;
 	height: 2em;
 	border: 2;
 }
@@ -56,7 +56,7 @@
 }
 #footer{
 	border: 4;
-	font-size: 12px;
+	font-size: 18px;
 	color: #ae729f;
 	background-color: #3D3C3A;
 	text-align: justify;
