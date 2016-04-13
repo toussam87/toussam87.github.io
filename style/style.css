@@ -2,26 +2,22 @@
 
 #main {
 	color: #000;
-	width: 300px;
-	border: 1px 0;
-	border-color: #D5B2D8;
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 	flex-direction: column;
 }
 @media (min-width: 320px) {
 #header{
-	border: 1;
 	font-size: 22x;
 }
 
 #navigation {
 	font-size: 22px;
 	height: 2em;
-	border: 2;
+	margin: 0 auto;
 }
+
 #content {
-	border: 3;
 	font-size: 20px;
 	word-wrap: normal;
 	text-align: justify;
