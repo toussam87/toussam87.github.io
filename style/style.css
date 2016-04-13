@@ -2,14 +2,14 @@
 
 #main {
 	color: #000;
-	width: 375pt;
+	width: 300px;
 	border: 1px 0;
 	border-color: #D5B2D8;
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 	flex-direction: column;
 }
-@media (max-width: 320px) {
+@media (min-width: 320px) {
 #header{
 	border: 1;
 	font-size: 22x;
@@ -37,6 +37,7 @@
 @media(max-width: 568px){
 #main {
 	background-color: pink;
+	width: 500px;
 }
 #header{
 	border: 1;
