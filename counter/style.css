@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+
+#main{
+    background-color: #FCF5F4;
+    color: #607b8b;
+    font-family: 'Cutive Mono', ;
+    width: 640px;
+    align-items: center;
+}
