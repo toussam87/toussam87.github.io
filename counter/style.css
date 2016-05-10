@@ -5,6 +5,7 @@
     color: #607B8B;
     font-family: 'Cutive Mono', ;
     width: 600px;
-    align-items: center;
+    text-align: center;
     border: 2px dotted #607B8B;
+    margin: 0 auto;
 }
