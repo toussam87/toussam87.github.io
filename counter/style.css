@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
 
 #main{
-    color: #607B8B;
-    font-family: 'Cutive Mono', ;
+    color: #5c5656;
+    font-family: 'Inconsolata', ;
     width: 600px;
     text-align: center;
     border: 2px dotted #607B8B;
