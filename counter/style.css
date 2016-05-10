@@ -2,8 +2,9 @@
 
 #main{
     background-color: #FCF5F4;
-    color: #607b8b;
+    color: #607B8B;
     font-family: 'Cutive Mono', ;
-    width: 640px;
+    width: 600px;
     align-items: center;
+    border: 2px dotted #607B8B;
 }
