@@ -1,0 +1,30 @@
+#large {
+    width: 750px;
+    height: 500px;
+    margin: 50px 0 auto;
+    border: 1px solid #084F3D;
+
+    display: block
+    margin: 0
+}
+
+.one{
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+ border: 1px dashed #e25e75;
+}
+
+.two {
+width: 100px;
+height: 100px;
+margin: 20px;
+border: 1px dashed #8ae32b;
+}
+
+.three {
+width: 100px;
+height: 100px;
+margin: 20px;
+border: 1px dashed #0000ff;
+}
