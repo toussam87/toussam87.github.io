@@ -3,42 +3,33 @@ body{
 }
 
 #large {
-    width: 750px;
+    display:block;width: 750px;
     height: 500px;
     margin: 0 auto;
     border: 1px solid #084F3D;
-
-    display: inline-block;
 }
 
 .one{
- display: inline-block;
- width: 100px;
- height: 100px;
- margin: 65px;
- border: 2px dashed #e25e75;
- transform: rotateZ(10deg);
-
-margin: 0 auto;
+     display: inline-block;
+     width: 100px;
+     height: 100px;
+     margin: 75px;
+     border: 2px dashed #e25e75;
+     transform: rotateZ(10deg);
 }
 
 .two {
-display: inline-block;
-width: 100px;
-height: 100px;
-margin: 20px;
-border: 2px dashed #8ae32b;
-
-margin: 0 auto;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 75px;
+    border: 2px dashed #8ae32b;
 }
 
 .three {
-display: inline-block;
-
-width: 100px;
-height: 100px;
-margin: 20px;
-border: 2px dashed #0000ff;
-
-margin: 0 auto;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 75px;
+    border: 2px dashed #0000ff;
 }
