@@ -5,7 +5,7 @@ body{
 #large {
     display:block;width: 750px;
     height: 500px;
-    margin: 0 auto;
+    margin-top: 70px;
     border: 1px solid #084F3D;
 }
 
