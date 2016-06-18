@@ -3,10 +3,11 @@ body{
 }
 
 #large {
-    display:block;width: 750px;
-    height: 500px;
-    margin-top: 70px;
+    display: block;
+    width: 800px;
+    height: 270px;
     border: 1px solid #084F3D;
+    margin: 70px auto;
 }
 
 .one{
