@@ -42,6 +42,13 @@ body{
     height: 400px;
 }
 
+.second-mango{
+    background-color: lime green;
+    position: absolute;
+    width: 500px;
+    height: 400px;
+}
+
 .banana{
     background-color: yellow;
     position: absolute;
