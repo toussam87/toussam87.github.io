@@ -36,21 +36,21 @@ body{
 }
 
 .mango{
-    background-color: mango;
+    background-color: orange;
     position: absolute;
     width: 500px;
     height: 400px;
 }
 
 .banana{
-    background-color: banana;
+    background-color: yellow;
     position: absolute;
     width: auto;
     height: auto
 }
 
 .spinach{
-    background-color: spinach;
+    background-color: green;
     position: relative;
     width: auto;
     height: auto;
