@@ -5,7 +5,7 @@ body{
 #large {
     display: block;
     width: 800px;
-    height: 270px;
+    height: 500px;
     border: 1px solid #084F3D;
     margin: 70px auto;
 }
@@ -33,4 +33,24 @@ body{
     height: 100px;
     margin: 75px;
     border: 2px dashed #0000ff;
+}
+
+.mango{
+    background-color: mango;
+    position: absolute;
+}
+
+.banana{
+    background-color: banana;
+    position: absolute;
+}
+
+.spinach{
+    background-color: spinach;
+    position: relative;
+}
+
+.grumble{
+    width: 500px;
+    height: 500px;
 }
