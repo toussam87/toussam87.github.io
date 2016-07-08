@@ -38,19 +38,29 @@ body{
 .mango{
     background-color: mango;
     position: absolute;
+    width: 500px;
+    height: 400px;
 }
 
 .banana{
     background-color: banana;
     position: absolute;
+    width: auto;
+    height: auto
 }
 
 .spinach{
     background-color: spinach;
     position: relative;
+    width: auto;
+    height: auto;
 }
 
 .grumble{
-    width: 500px;
-    height: 500px;
+    width: auto;
+    height: auto;
+}
+
+ul {
+    list-style: none;
 }
