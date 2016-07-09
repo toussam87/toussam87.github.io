@@ -71,7 +71,6 @@ body{
 .dinner{
     position: relative;
     background-color: red;
-    position: absolute;
     width: 500px;
     height: 400px;
 }
@@ -79,7 +78,6 @@ body{
 .breakfast{
     position: relative;
     background-color: green;
-    position: absolute;
     width: 500px;
     height: 400px;
 }
