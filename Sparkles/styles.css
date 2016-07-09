@@ -70,16 +70,10 @@ body{
 
 .dinner{
     position: relative;
-    background-color: red;
-    width: 500px;
-    height: 400px;
 }
 
 .breakfast{
     position: relative;
-    background-color: green;
-    width: 500px;
-    height: 400px;
 }
 ul {
     list-style: none;
