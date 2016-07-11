@@ -47,19 +47,20 @@ body{
     position: absolute;
     width: 500px;
     height: 400px;
+    left: 0;
+    top: -15px;
 }
 
 .banana{
     background-color: yellow;
-    position: absolute;
-    width: auto;
-    height: auto
+    position: relative;
+    width: 400px;
+    height: 25px
 }
 
 .spinach{
     background-color: green;
     position: relative;
-    width: auto;
     height: auto;
 }
 
